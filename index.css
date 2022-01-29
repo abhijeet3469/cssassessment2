@@ -1,0 +1,198 @@
+body{
+    border: 10px groove greenyellow;
+    margin: 0px;
+    height: 2050px;
+    background-image: url(./background.jpg);
+}
+.box1box{
+    padding-left: 20px;
+}
+.box1{
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    font-style: italic;
+    font-weight: bold;
+    display: inline-block;
+    border: 8px solid red;
+    border-radius: 40px;
+    padding: 20px;
+    margin: 25px;
+    height: 100px;
+    width: 350px;
+}
+.box2{
+    display: inline-block;
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    font-style: italic;
+    font-weight: bold;
+    border: 8px solid red;
+    border-radius: 40px;
+    margin: 20px;
+    padding-top: 35px;
+    padding-left: 100px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    position: relative;
+    right: 202px;
+    top: -10px;
+}
+.box3{
+    display: inline-block;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border: 8px solid red;
+    border-radius: 40px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 0px;
+    padding-top: 02px;
+    height: 220px;
+    width: 328px;
+    position: relative;
+    left: 965px;
+    bottom: 850px;
+}
+.box4{
+    display: inline-block;
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    border: 7.5px solid grey;
+    background-color: green;
+    border-radius: 500px;
+    position: absolute;
+    left: 70px;
+    top: 700px;
+    height: 272px;
+    width: 272px;
+    padding: 40px;
+    line-height: 50px;
+}
+.box4hr1{
+    display: block;
+    width: 335px;
+    position: relative;
+    right: 31.7px;
+}
+.box4hr2{
+    display: inline-block;
+    width: 350px;
+    position: relative;
+    right: 38.5px;
+}
+.form{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border: 10px dashed red;
+    padding: 10px;
+    width: 595px;
+    height: 850px;
+    position: relative;
+    top: 130px;
+}
+.box5{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    border-radius: 25px;
+    background-color: black;
+    font-size: 32px;
+    padding: 20px;
+    font-weight: bold;
+    font-style: italic;
+    border: 5px solid red;
+    width: 500px;
+    position: absolute;
+    right: 550px;
+    top: 1250px;
+}
+.box5hr{
+    border: 2px groove silver;
+    position: relative;
+    top: 230px;
+}
+.card1{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 350px;
+    position: relative;
+    top: 260px;
+    left: 40px;
+}
+.card2{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 350px;
+    position: relative;
+    top: 260px;
+    left: 230px;
+}
+.card3{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 350px;
+    position: relative;
+    top: 260px;
+    left: 385px;
+}
+.card4{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 300px;
+    position: relative;
+    left: 75px;
+    top: 600px;
+}
+.card5{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 350px;
+    position: relative;
+    left: 40px;
+    top: 313px;
+}
+.card6{
+    text-align: center;
+    display: inline-block;
+    border: 3px solid green;
+    border-radius: 35px;
+    background-color: cyan;
+    color: darkblue;
+    width: 350px;
+    position: relative;
+    left: 230px;
+    top: 313px;
+}
